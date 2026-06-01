@@ -1,4 +1,4 @@
-# 01. The Magic Trick
+# 01. The Magic Trick ✨
 
 This one's chat-only. Type each of the three half-finished sentences below into Lumi and see what it picks.
 
