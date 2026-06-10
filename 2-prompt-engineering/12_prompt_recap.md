@@ -29,7 +29,7 @@ TRIP LENGTH: {trip_length}
 TRAVEL STYLE: {travel_style}
 ```
 
-I used and it gave me the perfect result:
+I used this for my next trip to SF and it gave me the perfect result!
 
 ```
 DESTINATION: San Francisco
