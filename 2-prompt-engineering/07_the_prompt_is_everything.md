@@ -5,15 +5,13 @@ The same underlying question, asked two ways, gets you two completely different 
 ## Prompt 1 (vague)
 
 ```
-Explain decorators
+Explain selfies
 ```
 
 ## Prompt 2 (specific)
 
 ```
-Explain Python decorators in plain English for someone who knows basic Python but not this concept. Use one analogy and one short code example. Max 100 words.
+Explain selfies to your great-great-great-great grandmother in casual Japanese. 
+Include one analogy. 
+Max 250 words. 
 ```
-
-## What changed
-
-Run the vague prompt a few times and you'll notice the responses drift between runs. Sometimes the answer is long, sometimes short. Sometimes it assumes you're a beginner, sometimes it assumes you already know what a closure is. The specific prompt produces something close to what you actually wanted on almost every run, which is what this chapter is teaching you to do.
