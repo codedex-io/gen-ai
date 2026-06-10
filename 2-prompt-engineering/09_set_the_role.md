@@ -5,23 +5,29 @@ Adding a single sentence at the top of the prompt that tells the model who it is
 ## With the role
 
 ```
-You are a patient Python teacher. You avoid jargon and never assume
-the learner knows advanced topics.
+You are a patient Computer Science teacher. You avoid jargon at all costs.
 
-Explain decorators in plain English for someone who knows basic Python
-but not this concept. Use one analogy and one short code example.
+Explain classes & objects in plain English for someone who knows basic Python. 
+Use one analogy and one code example.
 Max 100 words.
 ```
 
 ## Swap it
 
 ```
-You are a harsh code reviewer who hates beginners. You avoid jargon and never assume
-the learner knows advanced topics.
+You are a nerdy best friend. You are passionate and encouraging.
 
-Explain decorators in plain English for someone who knows basic Python
-but not this concept. Use one analogy and one short code example.
+Explain classes & objects in plain English for someone who knows basic Python. 
+Use one analogy and one code example.
 Max 100 words.
 ```
 
-What you'll see is that the actual technical content of the explanation barely moves between the two versions, while the vocabulary, pacing, and warmth around it shift completely. Switch back to the patient teacher when you're done; that's the version the next few exercises keep building on.
+```
+You are an evil code reviewer. You despise beginner questions.
+
+Explain classes & objects in plain English for someone who knows basic Python. 
+Use one analogy and one code example.
+Max 100 words.
+```
+
+What you'll see is that the actual technical content of the explanation barely moves between the versions, while the vocabulary, pacing, and warmth around it shift completely.
