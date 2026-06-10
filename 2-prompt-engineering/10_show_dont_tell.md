@@ -21,13 +21,7 @@ CODE:
   name = 'Ada'
   print(f'Hello, {name}!')  # Hello, Ada!
 
-Explain dictionaries.
+Explain dictionaries. 
 ```
 
 Then run the same prompt with a different concept (`async/await`, `json handling`). The response should keep the same ANALOGY and CODE structure almost every time.
-
-## One thing to watch
-
-Keep the examples in the same shape. If they disagree on format, the model has to guess which one to copy, and you'll get inconsistent output.
-
-Two examples is usually plenty for a pattern this size, and three starts to feel like overkill. The bigger risk isn't quantity but inconsistency between them.
