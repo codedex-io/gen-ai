@@ -1,4 +1,4 @@
-# 23. AI Is a Tool
+# 24. AI Is a Tool
 
 No new prompt for this one. The lesson is the recap itself, and a single question to sit with on the way out: which technique from this course are you most likely to use this week?
 
@@ -14,7 +14,7 @@ They're useful when the answer is mostly a remix of things they've already seen 
 
 They're unreliable when the answer has to be exactly right and you can't verify it on the spot. Recent events fall in this bucket, and so do specific factual claims, precise math, and anything legal or medical.
 
-For everything in between, the workflow is the same one from lesson 23: generate, run, read, fix. The output is a draft until you've checked it.
+For everything in between, the workflow is the same one from lesson 24: generate, run, read, fix. The output is a draft until you've checked it.
 
 ## What to keep
 

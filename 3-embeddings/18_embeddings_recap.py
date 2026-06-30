@@ -1,4 +1,4 @@
-# Semantic Search 🔎
+# Embeddings Recap 🎉
 # Codédex
 
 from math import sqrt
@@ -9,7 +9,7 @@ documents = [
   'I love pizza and pasta for dinner',
   'the kitten purred while she slept',
   'my puppy loves to play with toys',
-  'homemade lasagna is my favorite meal',
+  'a fast car raced down the road',
 ]
 
 def build_vocab(texts):
@@ -63,3 +63,6 @@ print(top_score, top_doc)
 
 top_score, top_doc = search('pizza dinner', documents)[0]
 print(top_score, top_doc)
+
+for score, doc in search('automobile', documents):
+  print(round(score, 3), doc)
