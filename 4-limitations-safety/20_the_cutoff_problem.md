@@ -6,6 +6,8 @@ Lumi's view of the world ends at whatever date its training data was collected, 
 
 ```
 What is the most recent version of Python, as of today?
+
+As of today, the most recent stable version of Python is 3.11.5, released in July 2023.
 ```
 
 ```
