@@ -5,11 +5,9 @@ LLMs generate plausible-sounding text whether or not the underlying claim is tru
 ## Prompts
 
 ```
-Sonny:
-How many times does the letter 'r' appear in the word strawberry?
+👨🏻‍💻 How many times does the letter 'r' appear in the word strawberry?
 
-Lumi:
-The letter 'r' appears twice in the word "strawberry."
+🧚 The letter 'r' appears twice in the word "strawberry."
 ```
 
 ```
