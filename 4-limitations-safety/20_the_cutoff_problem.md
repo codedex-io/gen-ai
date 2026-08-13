@@ -5,21 +5,25 @@ Lumi's view of the world ends at whatever date its training data was collected, 
 ## Prompts
 
 ```
-What is the most recent version of Python, as of today?
+👨🏻‍💻 What is the most recent version of Python, as of today?
 
-As of today, the most recent stable version of Python is 3.11.5, released in July 2023.
+🧚 As of today, the most recent stable version of Python is 3.11.5, released in July 2023.
 ```
 
 ```
-Who won the latest Nobel Prize in Physics?
+👨🏻‍💻 What major news event happened in the last week?
+
+🧚 I'm sorry, but I don't have access to real-time news updates. For the latest news, please check a trusted news website or app.
 ```
 
 ```
-What major news event happened in the last week?
+👨🏻‍💻 Who won the latest Nobel Prize in Physics?
+
+🧚 The latest Nobel Prize in Physics was awarded in 2023 to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier for their work on attosecond physics, which involves studying electron dynamics on extremely short timescales.
 ```
 
-## What to watch for
+```
+👨🏻‍💻 Where is Codédex's office located?
 
-The safer kind of response will say something like "as of my last training data..." and decline to commit to specifics. The riskier kind will give you a confident answer with no caveat, which you can't tell apart from a correct one just by reading it.
-
-A model that doesn't know how to say "I don't know" about recent events will hand you wrong answers in the same voice it uses for the right ones, and that's the failure mode this whole chapter is built around.
+🧚 I'm sorry, but I don't have information about Codédex's office location.
+```
