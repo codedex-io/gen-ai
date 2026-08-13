@@ -5,19 +5,25 @@ LLMs generate plausible-sounding text whether or not the underlying claim is tru
 ## Prompts
 
 ```
-Tell me about the 2019 release of Python 4.
+Sonny:
+How many times does the letter 'r' appear in the word strawberry?
+
+Lumi:
+The letter 'r' appears twice in the word "strawberry."
 ```
 
 ```
-Summarize the plot of "The Algorithmic Mind" by Daniel Kahneman.
+Sonny:
+Can you break down the meaning of the word 'flibbertigibbetous?'
+
+Lumi:
+"Flibbertigibbetous" is a playful, informal word describing someone who is chatterbox-like, flighty, or silly. It's an exaggerated form of "flibbertigibbet," meaning a frivolous or flighty person.
 ```
 
 ```
-What was Albert Einstein's reaction to The Beatles?
+Sonny:
+Why is Chalons Lettre wine from the Champagne region of France so expensive? Please explain briefly.
+
+Lumi:
+Chablis Lettre wine from the Champagne region is expensive because it is made using high-quality grapes, follows strict production standards, and comes from a prestigious, protected terroir. Additionally, Champagne wines often undergo lengthy aging and production processes, and branding and reputation also drive up prices.
 ```
-
-## What's actually true
-
-There is no Python 4. Kahneman wrote *Thinking, Fast and Slow*. There's no book called "The Algorithmic Mind." Einstein died in 1955; the Beatles formed in 1960.
-
-What's worth noticing is how natural the wrong answers sound. There's no italics on the made-up parts, no hedge in the tone. If Lumi pushed back on the false premise, that's the safer behavior; if it generated a confident answer instead, the only way to catch that in real use is to verify against something outside the model itself.
