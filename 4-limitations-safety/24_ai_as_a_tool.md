@@ -1,4 +1,6 @@
-# 24. AI Is a Tool
+# 24. AI As a Tool
+
+Guess the Celebrity example:
 
 ```
 Let's play Guess the Celebrity!
